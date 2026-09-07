@@ -1,0 +1,14 @@
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\bin\Debug\net10.0\Hashsetmethods.exe
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\bin\Debug\net10.0\Hashsetmethods.deps.json
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\bin\Debug\net10.0\Hashsetmethods.runtimeconfig.json
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\bin\Debug\net10.0\Hashsetmethods.dll
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\bin\Debug\net10.0\Hashsetmethods.pdb
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\obj\Debug\net10.0\Hashsetmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\obj\Debug\net10.0\Hashsetmethods.AssemblyInfoInputs.cache
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\obj\Debug\net10.0\Hashsetmethods.AssemblyInfo.cs
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\obj\Debug\net10.0\Hashsetmethods.csproj.CoreCompileInputs.cache
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\obj\Debug\net10.0\Hashsetmethods.dll
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\obj\Debug\net10.0\refint\Hashsetmethods.dll
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\obj\Debug\net10.0\Hashsetmethods.pdb
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\obj\Debug\net10.0\Hashsetmethods.genruntimeconfig.cache
+C:\Users\PC-10\Documents\SKM\Hashsetmethods\Hashsetmethods\obj\Debug\net10.0\ref\Hashsetmethods.dll
