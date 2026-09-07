@@ -1,0 +1,14 @@
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\obj\Debug\net10.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\obj\Debug\net10.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\obj\Debug\net10.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\obj\Debug\net10.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\bin\Debug\net10.0\JaggedArrays.exe
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\bin\Debug\net10.0\JaggedArrays.deps.json
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\bin\Debug\net10.0\JaggedArrays.runtimeconfig.json
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\bin\Debug\net10.0\JaggedArrays.dll
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\bin\Debug\net10.0\JaggedArrays.pdb
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\obj\Debug\net10.0\JaggedArrays.dll
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\obj\Debug\net10.0\refint\JaggedArrays.dll
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\obj\Debug\net10.0\JaggedArrays.pdb
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\obj\Debug\net10.0\JaggedArrays.genruntimeconfig.cache
+C:\Users\PC-10\Documents\SKM\JaggedArrays\JaggedArrays\obj\Debug\net10.0\ref\JaggedArrays.dll

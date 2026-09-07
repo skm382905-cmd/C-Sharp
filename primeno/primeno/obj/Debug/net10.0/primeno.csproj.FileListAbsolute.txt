@@ -1,0 +1,14 @@
+C:\Users\PC-10\Documents\SKM\primeno\primeno\bin\Debug\net10.0\primeno.exe
+C:\Users\PC-10\Documents\SKM\primeno\primeno\bin\Debug\net10.0\primeno.deps.json
+C:\Users\PC-10\Documents\SKM\primeno\primeno\bin\Debug\net10.0\primeno.runtimeconfig.json
+C:\Users\PC-10\Documents\SKM\primeno\primeno\bin\Debug\net10.0\primeno.dll
+C:\Users\PC-10\Documents\SKM\primeno\primeno\bin\Debug\net10.0\primeno.pdb
+C:\Users\PC-10\Documents\SKM\primeno\primeno\obj\Debug\net10.0\primeno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-10\Documents\SKM\primeno\primeno\obj\Debug\net10.0\primeno.AssemblyInfoInputs.cache
+C:\Users\PC-10\Documents\SKM\primeno\primeno\obj\Debug\net10.0\primeno.AssemblyInfo.cs
+C:\Users\PC-10\Documents\SKM\primeno\primeno\obj\Debug\net10.0\primeno.csproj.CoreCompileInputs.cache
+C:\Users\PC-10\Documents\SKM\primeno\primeno\obj\Debug\net10.0\primeno.dll
+C:\Users\PC-10\Documents\SKM\primeno\primeno\obj\Debug\net10.0\refint\primeno.dll
+C:\Users\PC-10\Documents\SKM\primeno\primeno\obj\Debug\net10.0\primeno.pdb
+C:\Users\PC-10\Documents\SKM\primeno\primeno\obj\Debug\net10.0\primeno.genruntimeconfig.cache
+C:\Users\PC-10\Documents\SKM\primeno\primeno\obj\Debug\net10.0\ref\primeno.dll
