@@ -1,0 +1,14 @@
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\bin\Debug\net10.0\StudentRecord.exe
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\bin\Debug\net10.0\StudentRecord.deps.json
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\bin\Debug\net10.0\StudentRecord.runtimeconfig.json
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\bin\Debug\net10.0\StudentRecord.dll
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\bin\Debug\net10.0\StudentRecord.pdb
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\obj\Debug\net10.0\StudentRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\obj\Debug\net10.0\StudentRecord.AssemblyInfoInputs.cache
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\obj\Debug\net10.0\StudentRecord.AssemblyInfo.cs
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\obj\Debug\net10.0\StudentRecord.csproj.CoreCompileInputs.cache
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\obj\Debug\net10.0\StudentRecord.dll
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\obj\Debug\net10.0\refint\StudentRecord.dll
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\obj\Debug\net10.0\StudentRecord.pdb
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\obj\Debug\net10.0\StudentRecord.genruntimeconfig.cache
+C:\Users\PC-10\Documents\SKM\StudentRecord\StudentRecord\obj\Debug\net10.0\ref\StudentRecord.dll
