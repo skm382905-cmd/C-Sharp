@@ -1,0 +1,14 @@
+C:\Users\PC-10\Documents\SKM\2darray\2darray\bin\Debug\net10.0\2darray.exe
+C:\Users\PC-10\Documents\SKM\2darray\2darray\bin\Debug\net10.0\2darray.deps.json
+C:\Users\PC-10\Documents\SKM\2darray\2darray\bin\Debug\net10.0\2darray.runtimeconfig.json
+C:\Users\PC-10\Documents\SKM\2darray\2darray\bin\Debug\net10.0\2darray.dll
+C:\Users\PC-10\Documents\SKM\2darray\2darray\bin\Debug\net10.0\2darray.pdb
+C:\Users\PC-10\Documents\SKM\2darray\2darray\obj\Debug\net10.0\2darray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-10\Documents\SKM\2darray\2darray\obj\Debug\net10.0\2darray.AssemblyInfoInputs.cache
+C:\Users\PC-10\Documents\SKM\2darray\2darray\obj\Debug\net10.0\2darray.AssemblyInfo.cs
+C:\Users\PC-10\Documents\SKM\2darray\2darray\obj\Debug\net10.0\2darray.csproj.CoreCompileInputs.cache
+C:\Users\PC-10\Documents\SKM\2darray\2darray\obj\Debug\net10.0\2darray.dll
+C:\Users\PC-10\Documents\SKM\2darray\2darray\obj\Debug\net10.0\refint\2darray.dll
+C:\Users\PC-10\Documents\SKM\2darray\2darray\obj\Debug\net10.0\2darray.pdb
+C:\Users\PC-10\Documents\SKM\2darray\2darray\obj\Debug\net10.0\2darray.genruntimeconfig.cache
+C:\Users\PC-10\Documents\SKM\2darray\2darray\obj\Debug\net10.0\ref\2darray.dll

@@ -1,0 +1,14 @@
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\bin\Debug\net10.0\Amstrong.exe
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\bin\Debug\net10.0\Amstrong.deps.json
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\bin\Debug\net10.0\Amstrong.runtimeconfig.json
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\bin\Debug\net10.0\Amstrong.dll
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\bin\Debug\net10.0\Amstrong.pdb
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\obj\Debug\net10.0\Amstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\obj\Debug\net10.0\Amstrong.AssemblyInfoInputs.cache
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\obj\Debug\net10.0\Amstrong.AssemblyInfo.cs
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\obj\Debug\net10.0\Amstrong.csproj.CoreCompileInputs.cache
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\obj\Debug\net10.0\Amstrong.dll
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\obj\Debug\net10.0\refint\Amstrong.dll
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\obj\Debug\net10.0\Amstrong.pdb
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\obj\Debug\net10.0\Amstrong.genruntimeconfig.cache
+C:\Users\PC-10\Documents\SKM\Amstrong\Amstrong\obj\Debug\net10.0\ref\Amstrong.dll
